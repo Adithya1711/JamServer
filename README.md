@@ -1,5 +1,5 @@
 ```bash
-python - m venv jam
+python -m venv jam
 
 jam\scripts\activate
 ```
